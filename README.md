@@ -1,1 +1,3 @@
-
+# Coding-Journey
+Day 1 
+Learned basic syntax, code flow and structure...
